@@ -1,0 +1,169 @@
+[
+  {
+    "id": "Ghana",
+    "language": "English",
+    "data": [
+      {
+        "title": "Rockstone's Office",
+        "city": "Accra",
+        "description": "Owned by hiplife legend Reggie Rockstone. There's a lounge bar decked out with white leather sofas, an outdoor terrace and regular live music. At the weekend an energetic crowd parties till dawn to hiplife (a highlife/hip-hop hybrid) and hip-hop. It's near the police headquarters, behind the Japanese embassy.",
+        "image": ""
+      },
+      {
+        "title": "JamesTown Cafe",
+        "city": "Accra",
+        "description": "This stylish architect-owned cafe, bar and music venue sits in a beautifully restored building right in the heart of old Accra, just across from the sea. There's local and international food, great cocktails and live music daily. Once a week, the party spills outside.",
+        "image": ""
+      },
+      {
+        "title": "Republic Bar & Grill",
+        "city": "Kumasi",
+        "description": "With its bright red walls, black-and-white photos, vintage postcards and outdoor wooden deck, this fab bar wouldn't look out of place in Brooklyn. Here, it delights happening young Ghanaians and expats in equal measure, and is renowned for its innovative cocktails made from local booze such as palm wine. Live music is also fantastic here, with many a highlife giant having turned up to play to exuberant crowds.",
+        "image": ""
+      },
+      {
+        "title": "Honeysuckle",
+        "city": "Accra",
+        "description": "A little slice of England in Accra, this dingy pub is the place to stop if you want an evening of playing billiards or watching live sports on the flat screen. Start the night off with a pick from the wide selection of draft beers and a plate of British pub food.",
+        "image": ""
+      },
+      {
+        "title": "SkyBar25",
+        "city": "Accra",
+        "description": "This rooftop bar sits at the summit of Alto Tower, West Africa’s tallest building. Unsurprisingly, the uncovered area outside the sleek blue-lit bar offers the vest views in Accra..",
+        "image": ""
+      },
+      {
+        "title": "Epo's Bar & Night Club",
+        "city": "Accra",
+        "description": "This lively bar and club keeps on going to the small hours, pumping out loud dance and hip hop. It's also a popular spot to watch premier league football.",
+        "image": ""
+      },
+      {
+        "title": "Kona Cafe & Grill",
+        "city": "Accra",
+        "description": "This popular new hangout is the epitome of rustic chic, with pallet furniture and faux street food. It has a rooftop deck overlooking Osu and is a good place to sample local spirits.",
+        "image": ""
+      },
+      {
+        "title": "Smoke 'n' Barrel",
+        "city": "Accra",
+        "description": "This bar is all about its outside space. Wooden seating and planks behind a long bar create a homey atmosphere – join expats and locals to sip on beers and drinks. There is also a quiz night every Tuesday. The grilled food is average.",
+        "image": ""
+      },
+      {
+        "title": "Badu Lounge",
+        "city": "Accra",
+        "description": "This lounge in Labone turns into a veritable nightlife highlight on weekend nights, giving local and highly talented voices a stage to perform. The vibe here is so rich that even the eponymous soul legend Erkia Badu would be proud.",
+        "image": ""
+      },
+      {
+        "title": "Pinocchio Gelato",
+        "city": "Accra",
+        "description": "The fierce air-con and candy-coloured interior provide cooling respite after browsing Osu's shops, as does the excellent gelato. If you're after something more substantial there are waffles and sizeable burgers.",
+        "image": ""
+      },
+      {
+        "title": "Clear Spice",
+        "city": "Accra",
+        "description": "It’s just a restaurant and office during the week, but come Friday night this venue behind Flagstaff House transforms into a disco straight out of the 1970s. A disco ball turns over the small dance floor as crowds of Ghanaians in their 30s and 40s dance all night in a relaxed trance to funk and soul music.",
+        "image": ""
+      },
+      {
+        "title": "Mamma Mia Pizzeria",
+        "city": "Accra",
+        "description": "Expats swear by the pizza here and the pretty outdoor garden dining area makes everything taste better. Spaghetti and kid-friendly chicken fingers are also served.",
+        "image": ""
+      },
+      {
+        "title": "Moka's Resto Cafe",
+        "city": "Accra",
+        "description": "This new restaurant and café in booming Labone offers good options from breakfast until a late dinner. Choose between croissants and muffins, Italian-style pizza and pasta, burgers and freshly pressed juice from the outside fruit bar. There are two outdoor spaces and an air-conditioned interior. The only niggle is the cost, particularly after adding VAT to the menu prices.",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": "Nigeria",
+    "data": [
+      {
+        "title": "Oso Lounge",
+        "city": "Accra",
+        "description": "Owned by hiplife legend Reggie Rockstone. There's a lounge bar decked out with white leather sofas, an outdoor terrace and regular live music. At the weekend an energetic crowd parties till dawn to hiplife (a highlife/hip-hop hybrid) and hip-hop. It's near the police headquarters, behind the Japanese embassy.",
+        "image": ""
+      },
+      {
+        "title": "JamesTown Cafe",
+        "city": "Accra",
+        "description": "This stylish architect-owned cafe, bar and music venue sits in a beautifully restored building right in the heart of old Accra, just across from the sea. There's local and international food, great cocktails and live music daily. Once a week, the party spills outside.",
+        "image": ""
+      },
+      {
+        "title": "Republic Bar & Grill",
+        "city": "Kumasi",
+        "description": "With its bright red walls, black-and-white photos, vintage postcards and outdoor wooden deck, this fab bar wouldn't look out of place in Brooklyn. Here, it delights happening young Ghanaians and expats in equal measure, and is renowned for its innovative cocktails made from local booze such as palm wine. Live music is also fantastic here, with many a highlife giant having turned up to play to exuberant crowds.",
+        "image": ""
+      },
+      {
+        "title": "Honeysuckle",
+        "city": "Accra",
+        "description": "A little slice of England in Accra, this dingy pub is the place to stop if you want an evening of playing billiards or watching live sports on the flat screen. Start the night off with a pick from the wide selection of draft beers and a plate of British pub food.",
+        "image": ""
+      },
+      {
+        "title": "SkyBar25",
+        "city": "Accra",
+        "description": "This rooftop bar sits at the summit of Alto Tower, West Africa’s tallest building. Unsurprisingly, the uncovered area outside the sleek blue-lit bar offers the vest views in Accra..",
+        "image": ""
+      },
+      {
+        "title": "Epo's Bar & Night Club",
+        "city": "Accra",
+        "description": "This lively bar and club keeps on going to the small hours, pumping out loud dance and hip hop. It's also a popular spot to watch premier league football.",
+        "image": ""
+      },
+      {
+        "title": "Kona Cafe & Grill",
+        "city": "Accra",
+        "description": "This popular new hangout is the epitome of rustic chic, with pallet furniture and faux street food. It has a rooftop deck overlooking Osu and is a good place to sample local spirits.",
+        "image": ""
+      },
+      {
+        "title": "Smoke 'n' Barrel",
+        "city": "Accra",
+        "description": "This bar is all about its outside space. Wooden seating and planks behind a long bar create a homey atmosphere – join expats and locals to sip on beers and drinks. There is also a quiz night every Tuesday. The grilled food is average.",
+        "image": ""
+      },
+      {
+        "title": "Badu Lounge",
+        "city": "Accra",
+        "description": "This lounge in Labone turns into a veritable nightlife highlight on weekend nights, giving local and highly talented voices a stage to perform. The vibe here is so rich that even the eponymous soul legend Erkia Badu would be proud.",
+        "image": ""
+      },
+      {
+        "title": "Pinocchio Gelato",
+        "city": "Accra",
+        "description": "The fierce air-con and candy-coloured interior provide cooling respite after browsing Osu's shops, as does the excellent gelato. If you're after something more substantial there are waffles and sizeable burgers.",
+        "image": ""
+      },
+      {
+        "title": "Clear Spice",
+        "city": "Accra",
+        "description": "It’s just a restaurant and office during the week, but come Friday night this venue behind Flagstaff House transforms into a disco straight out of the 1970s. A disco ball turns over the small dance floor as crowds of Ghanaians in their 30s and 40s dance all night in a relaxed trance to funk and soul music.",
+        "image": ""
+      },
+      {
+        "title": "Mamma Mia Pizzeria",
+        "city": "Accra",
+        "description": "Expats swear by the pizza here and the pretty outdoor garden dining area makes everything taste better. Spaghetti and kid-friendly chicken fingers are also served.",
+        "image": ""
+      },
+      {
+        "title": "Moka's Resto Cafe",
+        "city": "Accra",
+        "description": "This new restaurant and café in booming Labone offers good options from breakfast until a late dinner. Choose between croissants and muffins, Italian-style pizza and pasta, burgers and freshly pressed juice from the outside fruit bar. There are two outdoor spaces and an air-conditioned interior. The only niggle is the cost, particularly after adding VAT to the menu prices.",
+        "image": ""
+      }
+    ]
+  }
+]
