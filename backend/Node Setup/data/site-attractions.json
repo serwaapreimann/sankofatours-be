@@ -1,0 +1,85 @@
+[
+  {
+    "id": "Ghana",
+    "data": [
+      {
+        "title": "Cape Coast Castle",
+        "city": "Cape Coast",
+        "description": "Cape Coast’s imposing, whitewashed castle commands the heart of town, overlooking the sea. Once one of the world's most important slave-holding sites, a visit to the dungeons contrasts sharply with the governor’s bedroom, blessed with floor-to-ceiling windows and panoramic ocean views.",
+        "image": " "
+      },
+      {
+        "title": "Kejetia Market",
+        "city": "Kumasi",
+        "description": "From afar, the Kejetia Market looks like an alien mothership landed in the centre of Kumasi. Closer up, the rusting tin roofs of this huge market (often cited as the largest in West Africa; there are 11,000 stalls and at least four times as many people working here) look like a circular shanty town. Inside, the throbbing Kejetia is quite disorienting but utterly captivating.",
+        "image": " "
+      },
+      {
+        "title": "Mole National Park",
+        "city": "Bolgatanga",
+        "description": "It's not everywhere you can get up close and personal with bus-sized elephants. Face-to-face encounters with these beasts, plus roving gangs of baboons, warthogs, water bucks and antelopes – 90 species of mammals in total – are possibilities at this national park, Ghana's largest at 4660 sq km and best as far as wildlife viewing goes. The park consists for the most part of flat savanna, with gallery forests along the rivers and streams. Walking and jeep safaris take place daily.",
+        "image": " "
+      },
+      {
+        "title": "Jamestown",
+        "city": "Accra",
+        "description": "Jamestown originated as a community that emerged around the 17th-century British James Fort, merging with Accra as the city grew. These days, Jamestown is one the poorer neighbourhoods of Accra – full of beautifully dishevelled colonial buildings, clapboard houses and corrugated iron shacks – but it remains vibrant. For a great view of the city and the busy and colourful fishing harbour (haze and pollution permitting), climb to the top of the whitewashed lighthouse.",
+        "image": " "
+      },
+      {
+        "title": "St George's Castle",
+        "city": "Accra",
+        "description": "St George’s Castle, a Unesco heritage site, was built as a trading post by the Portuguese in 1482, and captured by the Dutch in 1637. It was expanded when slaves replaced gold as the major object of commerce, with storerooms converted into dungeons. The informative tour (included in the entry fee) takes you to the grim dungeons, punishment cells, Door of No Return and the turret room where the British imprisoned the Ashanti king, Prempeh I, for four years.",
+        "image": " "
+      },
+      {
+        "title": "ANO Centre for Cultural Research",
+        "city": "Accra",
+        "description": "This arts institution, which takes its name from the word 'grandmother' in Akan, was founded by Ghanaian art historian, writer and filmmaker Nana Oforiatta-Ayim and has just opened a well-curated permanent space for exhibitions and screenings, including a workshop and library. Time your visit for one of the weekly events that focus on a deeper look into the current exhibition.",
+        "image": " "
+      },
+      {
+        "title": "Kakum National Park",
+        "city": "Cape Coast",
+        "description": "Tucked away in this small pocket of rainforest are endangered forest elephants, colobus monkeys, 300 species of bird and a staggering 600 butterfly species. However, the main attraction is the canopy walkway suspended 30m (98ft) above the forest floor. It makes for great viewing (or trouser wetting, depending on your point of view).",
+        "image": " "
+      },
+      {
+        "title": "Kwame Nkrumah Park and Mausoleum",
+        "city": "Accra",
+        "description": "This tranquil park is full of bronze statues, fountains and wandering peacocks, with the mausoleum of Kwame Nkrumah, Ghana's first leader, at its heart. It's a pleasant enough place to wander around, but the park museum is rather dishevelled. It houses a curious collection of Nkrumah's personal belongings, including the smock he wore while declaring Ghana's independence, as well as copies of personal correspondence and numerous photos of him and various world leaders.",
+        "image": " "
+      },
+      {
+        "title": "Holy Trinity Cathedral",
+        "city": "Accra",
+        "description": "This gracious red-brick Anglican Church was completed by the British in 1894.",
+        "image": " "
+      },
+      {
+        "title": "Tafi Atome Monkey Sanctuary",
+        "city": "Ho",
+        "description": "Set up to protect the forest and its inhabitants, the mona monkeys, this community-run sanctuary makes for a fun excursion. The monkeys, revered by the villagers, are habituated and readily come to feed off the hand of visitors. Early in the morning and late in the afternoon, they can be seen roaming the village.",
+        "image": " "
+      },
+      {
+        "title": "Fort San Antonio",
+        "city": "Elmina",
+        "description": "Built in 1515, Fort San Antonio was the second fort constructed by the Portuguese on the Gold Coast, after St George’s Castle in Elmina. The entrance fee includes a guided tour, and from the top of the fort, there are spectacular views of the stunning coastline in both directions.",
+        "image": " "
+      },
+      {
+        "title": "The Studio",
+        "city": "Accra",
+        "description": "Ghanaian photographer Francis Kokoroko and his friends regularly host cultural events and art talks at this tiny, unbranded studio on the top floor of the Forico Mall in Osu. A young, stylish and interested crowd shows up when documentaries or discussions are hosted about such things as the rise of Hip Life music or how Ghanaian film posters developed their very own style.",
+        "image": " "
+      },
+      {
+        "title": "Flagstaff House",
+        "city": "Accra",
+        "description": "This dramatic structure was completed in 2008 amid huge controversy around the tens of millions of dollars it cost to construct. Built to resemble an Asante Golden Stool, it is the office and residence of the President of Ghana.",
+        "image": " "
+      }
+    ]
+  }
+]
