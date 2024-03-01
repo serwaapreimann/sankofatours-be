@@ -1,0 +1,315 @@
+[
+  {
+    "id": "Ghana",
+    "language": "English",
+    "data": [
+      {
+        "title": "Cape Coast Castle",
+        "city": "Cape Coast",
+        "link": "https://www.viator.com/en-CA/tours/Accra/Accra-To-Cape-Coast-And-Elmina-Day-Tour/d5517-220990P3?mcid=42383&pid=P00082420&medium=api&api_version=2.0&target_lander=NONE&currency=CAD&campaign=%3A8f248698-7b5a-44a3-a2d7-557588ef759f",
+        "description": "Cape Coast’s imposing, whitewashed castle commands the heart of town, overlooking the sea. Once one of the world's most important slave-holding sites, a visit to the dungeons contrasts sharply with the governor’s bedroom, blessed with floor-to-ceiling windows and panoramic ocean views.",
+        "image": "images/cape-coast-castle.jpeg",
+        "faclities&amenities": [
+          "conference hall, library, art studio, bookstore, gift shop, car park, courtyard "
+        ],
+        "visitor-information": "Entrance Fee from GHS 2.00 ",
+        "hours": " 0900-1600 daily",
+        "price" : "420",
+        "Booking": [
+          {
+            "name": "GMMB - Western and Central Regions",
+            "address": "P.O Box 281",
+            "city": "Cape Coast",
+            "phone": "+233-3321 32529"
+          }
+        ],
+        "local-tips": "When you visit Cape Coast Castle today, the main destination in the calm and breezy seaside town of Cape Coast"
+      },
+      {
+        "title": "Kejetia Market",
+        "city": "Kumasi",
+        "link": "https://www.viator.com/en-CA/tours/Kumasi/Kejetia-Market-Tour-and-Traditional-Food-Cooking-Class/d5535-133039P4",
+        "description": "Each day, some 12,000 stalls open for business, selling food, clothing, handmade glass beads, souvenirs, Ashanti sandals, fabric and things you wouldn't even know you wanted until you saw them. From afar, the Kejetia Market looks like an alien mothership landed in the centre of Kumasi. Closer up, the rusting tin roofs of this huge market (often cited as the largest in West Africa; there are 11,000 stalls and at least four times as many people working here) look like a circular shanty town. Inside, the throbbing Kejetia is quite disorienting but utterly captivating.",
+        "image": "images/kejetia-market.jpeg ",
+        "faclities&amenities": ["gift shop, car park"],
+        "price" : "30",
+        "Booking": [
+          {
+            "name": "Urban Adventures Ghana",
+            "address": "Adum",
+            "city": "Kumasi",
+            "phone": "+233-982-293212"
+          }
+        ],
+        "local-tips": "It’s quite easy to get separated in the chaos of the market, so try to stay close to your travelling companions, and choose a meeting spot outside the market ahead of time in case you get split up.",
+        "visitor-information": "Free",
+        "hours": " 0600-1700"
+      },
+      {
+        "title": "Mole National Park",
+        "city": "Bolgatanga",
+        "link": "https://www.viator.com/en-CA/tours/Mole-National-Park/3-Days-Trip-to-Mole-National-Park/d51965-178634P4",
+        "description": "It's not everywhere you can get up close and personal with bus-sized elephants. Face-to-face encounters with these beasts, plus roving gangs of baboons, warthogs, water bucks and antelopes – 90 species of mammals in total – are possibilities at this national park, Ghana's largest at 4660 sq km and best as far as wildlife viewing goes. The park consists for the most part of flat savanna, with gallery forests along the rivers and streams. Walking and jeep safaris take place daily.",
+        "image": "images/Mole-Entrance.jpg ",
+        "faclities&amenities": ["gift shop, car park, bank "],
+        "price" : "400",
+        "Booking": [
+          {
+            "name": "Mole National Park",
+            "address": "Damongo",
+            "city": "Northern Region",
+            "phone": "+233 (0)24 435 8371"
+          }
+        ],
+        "local-tips": "It’s quite easy to get separated in the chaos of the market, so try to stay close to your travelling companions, and choose a meeting spot outside the market ahead of time in case you get split up.",
+        "visitor-information": "Entry fees from 15 GHS. Non-nationals may be subjected to higher fees. Arrange all tourism activities (safaris, bird watching, camping, etc.) at the Safari Office located at the Mole Information Centre.",
+        "hours": " 1000-1600"
+      },
+      {
+        "title": "Jamestown",
+        "price" : "65",
+        "city": "Accra",
+        "video": "https://youtube.com/embed/JNsvNvFBbg0?si=jPt1lX22oi80lMYw&t=27?autoplay=1",
+        "description": "Jamestown originated as a community that emerged around the 17th-century British James Fort, merging with Accra as the city grew. These days, Jamestown is one the poorer neighbourhoods of Accra – full of beautifully dishevelled colonial buildings, clapboard houses and corrugated iron shacks – but it remains vibrant. For a great view of the city and the busy and colourful fishing harbour (haze and pollution permitting), climb to the top of the whitewashed lighthouse.",
+        "image": "images/jamestown.jpeg "
+      },
+      {
+        "title": "St George's Castle",
+        "city": "Accra",
+        "video": "https://www.youtube.com/watch?v=2yggFZm0UXY&t=27s?autoplay=1",
+        "description": "St George’s Castle, a Unesco heritage site, was built as a trading post by the Portuguese in 1482, and captured by the Dutch in 1637. It was expanded when slaves replaced gold as the major object of commerce, with storerooms converted into dungeons. The informative tour (included in the entry fee) takes you to the grim dungeons, punishment cells, Door of No Return and the turret room where the British imprisoned the Ashanti king, Prempeh I, for four years.",
+        "image": "images/cape-coast-castle.jpeg ",
+        "price" : "550"
+      },
+      {
+        "title": "ANO Centre for Cultural Research",
+        "video": "https://www.youtube.com/watch?v=2yggFZm0UXY&t=27s?autoplay=1",
+        "city": "Accra",
+        "description": "This arts institution, which takes its name from the word 'grandmother' in Akan, was founded by Ghanaian art historian, writer and filmmaker Nana Oforiatta-Ayim and has just opened a well-curated permanent space for exhibitions and screenings, including a workshop and library. Time your visit for one of the weekly events that focus on a deeper look into the current exhibition.",
+        "image": "images/ANO-Ghana-scaled.jpg ",
+        "price" : "70"
+      },
+      {
+        "title": "Kakum National Park",
+        "city": "Cape Coast",
+        "video": "https://youtu.be/O4UmMaYh-Vo?si=IbF0ryQ3KE_JKyph&t=14?autoplay=1",
+        "description": "Tucked away in this small pocket of rainforest are endangered forest elephants, colobus monkeys, 300 species of bird and a staggering 600 butterfly species. However, the main attraction is the canopy walkway suspended 30m (98ft) above the forest floor. It makes for great viewing (or trouser wetting, depending on your point of view).",
+        "image": "images/Kakum.jpg ",
+        "price" : "120"
+      },
+      {
+        "title": "Kwame Nkrumah Park and Mausoleum",
+        "video": "https://youtube.com/embed/TcnVHRHqvZc?si=1-6iOXLquK_y2SBM&t=55?autoplay=1",
+        "city": "Accra",
+        "description": "This tranquil park is full of bronze statues, fountains and wandering peacocks, with the mausoleum of Kwame Nkrumah, Ghana's first leader, at its heart. It's a pleasant enough place to wander around, but the park museum is rather dishevelled. It houses a curious collection of Nkrumah's personal belongings, including the smock he wore while declaring Ghana's independence, as well as copies of personal correspondence and numerous photos of him and various world leaders.",
+        "image": "images/The-Kwame-Nkrumah-Memorial-Park.webp ",
+        "price" : "240"
+      },
+      {
+        "title": "Holy Trinity Cathedral",
+        "city": "Accra",
+        "video": "https://www.youtube.com/embed/watch?v=2yggFZm0UXY&t=27s?autoplay=1",
+        "description": "This gracious red-brick Anglican Church was completed by the British in 1894.",
+        "image": "images/Anglican_Holy_Trinity_Cathedral_Accra.jpg ",
+        "price" : "99"
+      },
+      {
+        "title": "Tafi Atome Monkey Sanctuary",
+        "video": "https://youtube.com/embed/i3PxPrasDzQ?si=SSHqR5Njb12O505R?autoplay=1",
+        "city": "Ho",
+        "description": "Set up to protect the forest and its inhabitants, the mona monkeys, this community-run sanctuary makes for a fun excursion. The monkeys, revered by the villagers, are habituated and readily come to feed off the hand of visitors. Early in the morning and late in the afternoon, they can be seen roaming the village.",
+        "image": "images/Tafi_Atome_Monkey_Sanctuary.jpg ",
+        "price" : "30"
+      },
+      {
+        "title": "Fort San Antonio",
+        "video": "https://youtu.be/JS3HhtUR3H8?si=mujrd6gf6qSTM4fj&t=68",
+        "city": "Elmina",
+        "description": "Built in 1515, Fort San Antonio was the second fort constructed by the Portuguese on the Gold Coast, after St George’s Castle in Elmina. The entrance fee includes a guided tour, and from the top of the fort, there are spectacular views of the stunning coastline in both directions.",
+        "image": "images/Fort-Santo-Antonio-Axim_Ghana.jpg ",
+        "price" : "60"
+      },
+      {
+        "title": "Flagstaff House",
+        "video": "https://youtu.be/WGADwCpuRmA?si=-yUFUnGUdiPSHAVu&t=103",
+        "city": "Accra",
+        "description": "This dramatic structure was completed in 2008 amid huge controversy around the tens of millions of dollars it cost to construct. Built to resemble an Asante Golden Stool, it is the office and residence of the President of Ghana.",
+        "image": "images/flagsaff.jpeg ",
+        "price" : "520"
+      }
+    ]
+  },
+  {
+    "id": "Nigeria",
+    "language": "English",
+    "data": [
+      {
+        "title": "Osun Sacred Grove",
+        "video": "https://youtu.be/hhISkroXHJI?si=JrGi2Q_JS9whgJRE",
+        "city": "Oshogbo ",
+        "description": "The Sacred Grove is a large area of rainforest on the outskirts of Oshogbo. Within the forest is the beautiful Shrine of Oshuno, the River Goddess. In addition to natural beauty, there are many stunning sculptures by Suzanne Wenger (known locally as Aduni Olosa, the 'Adored One'), an Austrian painter and sculptor who came here in the 1950s.",
+        "image": "images/osun.jpeg ",
+        "price": "20"
+      },
+      {
+        "title": "Lekki Conservation Centre ",
+        "video": "https://youtu.be/zMxmmX-nAHU?si=lYS_PYq09kgQ2yUF&t=6",
+        "city": "Lekki ",
+        "description": "Run by the Nigerian Conservation Foundation, this centre has a huge tract of wetlands set aside for wildlife viewing. Canopy walkways enable you to see monkeys, crocodiles and various birds; early morning is the best time to visit. There is a conservation centre and a library. ",
+        "image": "images/lekki.jpeg ",
+        "price":"200"
+      },
+      {
+        "title": "Kalakuta Republic Museum",
+        "video": "#",
+        "city": "Lagos ",
+        "description": "Legendary musician Fela Kuti's former house and revolutionary headquarters is now a fascinating museum with everything intact from Fela's bedroom to his (very small) underwear. Breath deep and you may even catch a high. And hang around on the rooftop terrace and you might catch a band rehearsal or performance. ",
+        "image": "images/kalakuta.webp ",
+        "price":"150"
+      },
+      {
+        "title": "Slave History Museum",
+        "video": "#",
+        "city": "Lagos ",
+        "description": "The museum sits on the site of a 15th-century slave-trading warehouse. Exhibits explore local slave markets, the grim paraphernalia of the trade including shackles and chains, and the variety of currencies used to buy people, such as copper bars, brass bells and flutes.",
+        "image": "images/slave museum.webp "
+      },
+      {
+        "title": "Yankari National Park",
+        "city": "Lagos ",
+        "video": "#",
+        "description": "Yankari is Nigeria's best park for observing wildlife. With a bit of luck you may come across buffaloes, waterbucks, bushbucks, hyenas, leopards, plenty of baboons and the odd lion. While the park's animal population has suffered from poaching it still has some big drawcards, like the 500-strong population of elephants, and the birdwatching is excellent.",
+        "image": "images/yankari.png ",
+        "price":"80"
+      },
+      {
+        "title": "Tafawa Balewa Square",
+        "video": "#",
+        "city": "Lagos ",
+        "description": "Named for Nigeria's first prime minister, this is Lagos' commercial heart and has some remarkable monuments. They include statues of gargantuan horses, the Remembrance Arcade (with memorials to WWI, WWII and civil-war victims) and the 26-storey Independence House, built in 1963.",
+        "image": "images/Tafawa_Balewa_Square_Image.jpg",
+        "price":"70"
+      },
+      {
+        "title": "Gidan Makama Museum",
+        "video": "#",
+        "city": "Kano ",
+        "description": "Stands on the site of the original emir's palace (the modern one sits opposite) and is a wonderful example of traditional Hausa architecture. The museum has a fascinating photographic history of Kano, and displays on Nigerian Islam and traditional culture.",
+        "image": "images/gidan makama.jpeg ",
+        "price": "45"
+
+      },
+      {
+        "title": "Revelation Tourist Palazzo",
+        "video": "#",
+        "city": "Kano ",
+        "description": "The totally bizarre Revelation Tourist Palazzo has simulations of slave markets, rituals, ancestral shrines, and odd punitive practices. It's the creation of an eccentric university professor.",
+        "image": " "
+      },
+      {
+        "title": "Oòni's Palace",
+        "video": "#",
+        "city": "Ile-Ife ",
+        "description": "le-Ife is considered the birthplace of Yoruba civilization, where people still worship traditional deities at revered spiritual sites. At the 18th-century Oòni's Palace one of the king's servants will, for a fee, show you the shrine within the palace walls, take you to see Oduduwa's staff, and teach you fantastic Yoruba creation stories including the tale of Moremi the warrior-princess.",
+        "image": " "
+      },
+      {
+        "title": "Gashaka-Gumti National Park",
+        "video": "#",
+        "city": "Gashaka ",
+        "description": "Nigeria's largest national park, Gashaka-Gumti is also the remotest and least-explored part of the country. Its 6700-sq-km area contains rolling hills, savannah, montane forest – as wild and spectacular a corner of Africa as you could wish for. It also holds incredible diversity and is one of West Africa's most important primate habitats, as well as supporting lions, elephants, hippos and buffaloes.",
+        "image": " "
+      }
+    ]
+  },
+  {
+    "id": "Cameroon",
+    "language": ["French, English, German"],
+    "data": [
+      {
+        "title": "Fon's Palace",
+        "video": "#",
+        "city": "Oshogbo ",
+        "description": "Just north of Bamenda is the large Tikar community of Bafut, traditionally the most powerful of the Grassfields kingdoms. The fon's (local chief's) palace here is home to the representative of a 700-year-old dynasty and is a fascinating insight into Cameroon's traditional culture. ",
+        "image": " "
+      },
+      {
+        "title": "Lekki Conservation Centre ",
+        "video": "#",
+        "city": "Lekki ",
+        "description": "Run by the Nigerian Conservation Foundation, this centre has a huge tract of wetlands set aside for wildlife viewing. Canopy walkways enable you to see monkeys, crocodiles and various birds; early morning is the best time to visit. There is a conservation centre and a library. ",
+        "image": " "
+      },
+      {
+        "title": "Kalakuta Republic Museum",
+        "video": "#",
+        "city": "Lagos ",
+        "description": "Legendary musician Fela Kuti's former house and revolutionary headquarters is now a fascinating museum with everything intact from Fela's bedroom to his (very small) underwear. Breath deep and you may even catch a high. And hang around on the rooftop terrace and you might catch a band rehearsal or performance. ",
+        "image": " "
+      },
+      {
+        "title": "Slave History Museum",
+        "video": "#",
+        "city": "Lagos ",
+        "description ": "The museum sits on the site of a 15th-century slave-trading warehouse. Exhibits explore local slave markets, the grim paraphernalia of the trade including shackles and chains, and the variety of currencies used to buy people, such as copper bars, brass bells and flutes.",
+        "image": " "
+      },
+      {
+        "title": "Yankari National Park",
+        "video": "#",
+        "city": "Lagos ",
+        "description ": "Yankari is Nigeria's best park for observing wildlife. With a bit of luck you may come across buffaloes, waterbucks, bushbucks, hyenas, leopards, plenty of baboons and the odd lion. While the park's animal population has suffered from poaching it still has some big drawcards, like the 500-strong population of elephants, and the birdwatching is excellent.",
+        "image": " "
+      },
+      {
+        "title": "Tafawa Balewa Square",
+        "video": "#",
+        "city": "Lagos ",
+        "description ": "Named for Nigeria's first prime minister, this is Lagos' commercial heart and has some remarkable monuments. They include statues of gargantuan horses, the Remembrance Arcade (with memorials to WWI, WWII and civil-war victims) and the 26-storey Independence House, built in 1963.",
+        "image": " "
+      },
+      {
+        "title": "Gidan Makama Museum",
+        "video": "#",
+        "city": "Kano ",
+        "description ": "Stands on the site of the original emir's palace (the modern one sits opposite) and is a wonderful example of traditional Hausa architecture. The museum has a fascinating photographic history of Kano, and displays on Nigerian Islam and traditional culture.",
+        "image": " "
+      },
+      {
+        "title": "Gidan Makama Museum",
+        "video": "#",
+        "city": "Kano ",
+        "description ": "Stands on the site of the original emir's palace (the modern one sits opposite) and is a wonderful example of traditional Hausa architecture. The museum has a fascinating photographic history of Kano, and displays on Nigerian Islam and traditional culture.",
+        "image": " "
+      },
+      {
+        "title": "Revelation Tourist Palazzo",
+        "video": "#",
+        "city": "Kano ",
+        "description ": "The totally bizarre Revelation Tourist Palazzo has simulations of slave markets, rituals, ancestral shrines, and odd punitive practices. It's the creation of an eccentric university professor.",
+        "image": " "
+      },
+      {
+        "title": "Revelation Tourist Palazzo",
+        "video": "#",
+        "city": "Kano ",
+        "description ": "The totally bizarre Revelation Tourist Palazzo has simulations of slave markets, rituals, ancestral shrines, and odd punitive practices. It's the creation of an eccentric university professor.",
+        "image": " "
+      },
+      {
+        "title": "Oòni's Palace",
+        "video": "#",
+        "city": "Ile-Ife ",
+        "description ": "le-Ife is considered the birthplace of Yoruba civilization, where people still worship traditional deities at revered spiritual sites. At the 18th-century Oòni's Palace one of the king's servants will, for a fee, show you the shrine within the palace walls, take you to see Oduduwa's staff, and teach you fantastic Yoruba creation stories including the tale of Moremi the warrior-princess.",
+        "image": " "
+      },
+      {
+        "title": "Gashaka-Gumti National Park",
+        "video": "#",
+        "city": "Gashaka ",
+        "description ": "Nigeria's largest national park, Gashaka-Gumti is also the remotest and least-explored part of the country. Its 6700-sq-km area contains rolling hills, savannah, and montane forest – as wild and spectacular a corner of Africa as you could wish for. It also holds incredible diversity and is one of West Africa's most important primate habitats, as well as supporting lions, elephants, hippos and buffaloes.",
+        "image": " "
+      }
+    ]
+  }
+]
